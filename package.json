@@ -1,0 +1,29 @@
+{
+    "name": "four-you-see-manager",
+    "main": "index.html",
+    "version": "0.0.0",
+    "license": "MIT",
+    "window": {
+        "title": "For You See Manager",
+        "width": 650,
+        "height": 650,
+        "min_width": 650,
+        "min_height": 650,
+        "toolbar": false
+    },
+    "build": {
+        "nwVersion": "0.14.7"
+    },
+    "scripts": {},
+    "dependencies": {
+        "angular": "^1.6.9",
+        "jquery": "^3.3.1",
+        "materialize-css": "^1.0.0-beta",
+        "grunt": "^1.0.2",
+        "bower": "^1.8.4"
+    },
+    "devDependencies": {
+        "ember-cli-materialize": "^0.22.0-beta.0",
+        "nwjs-builder-phoenix": "^1.14.6"
+    }
+}
